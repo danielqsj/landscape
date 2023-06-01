@@ -8409,6 +8409,15 @@ landscape:
             logo: tingyun.svg
             crunchbase: https://www.crunchbase.com/organization/tingyun
           - item:
+            name: TRaaS BOS
+            description: >-
+              Provide real-time business monitoring, application performance monitoring, cloud native monitoring, network performance monitoring (ebpf),
+              security event monitoring and other holographic integrated monitoring capabilities to measure business availability and gain insight into
+              the health status of application services.
+            homepage_url: https://antchain.antgroup.com/products/biosp
+            logo: traas-bos.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
+          - item:
             name: Trickster
             homepage_url: https://trickstercache.org
             project: sandbox
@@ -8615,6 +8624,14 @@ landscape:
             logo: tencent-cloud-log-service.svg
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
+            name: TRaaS LOG
+            description: >-
+              Provides near-real-time log data collection, cleaning, storage, retrieval, and aggregation analysis capabilities, supports the openness of multiple
+              log source docking and observability data association, and facilitates problem analysis and location efficiently.
+            homepage_url: https://antchain.antgroup.com/products/biosp
+            logo: traas-log.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
+          - item:
             name: Trink.io
             description: >-
               Trink.io is the first log shipping platform, built to replace fragmented solutions and workarounds with a single solution that takes care of the
@@ -8789,6 +8806,15 @@ landscape:
             logo: teletrace.svg
             crunchbase: https://www.crunchbase.com/organization/cisco
           - item:
+            name: TRaaS DST
+            description: >-
+              Provide non-intrusive automatic link generation capabilities for heterogeneous applications on and off the cloud, realize end-to-end full
+              link tracking from client-server-middleware, and support defining services to aggregate massive link data into service links, Realize automatic
+              association between business and application and intelligent diagnosis and positioning capabilities.
+            homepage_url: https://antchain.antgroup.com/products/biosp
+            logo: traas-dst.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
+          - item:
             name: Tracetest
             description: >-
               Tracetest allows easy creation of end-to-end tests via a simple user interface. It leverages your current investment in OpenTelemetry based
@@ -8887,6 +8913,15 @@ landscape:
             homepage_url: https://www.steadybit.com/
             logo: steadybit.svg
             crunchbase: https://www.crunchbase.com/organization/chaosmesh
+          - item:
+            name: TRaaS CHAOS
+            description: >-
+              Provides a one-stop drill platform for the whole life cycle of access detection, fault injection, fault measurement, recovery measurement,
+              injection recovery, etc., and has a built-in rich risk fault injection library for business, application, resources, etc., which can quickly
+              mine the potential risks of the application system and Check the emergency fresh-keeping ability.
+            homepage_url: https://antchain.antgroup.com/products/biosp
+            logo: traas-chaos.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
       - subcategory:
         name: Continuous Optimization
         items:
@@ -8990,6 +9025,15 @@ landscape:
             homepage_url: https://stormforge.io/
             logo: stormforge.svg
             crunchbase: https://www.crunchbase.com/organization/stormforge
+          - item:
+            name: TRaaS HAS
+            description: >-
+              Provides the ability to aggregate dispersed fault data into risk events, as well as emergency response, fault localization (root cause analysis,
+              diagnostic decision trees), and fault handling (emergency self-healing, multi-active disaster recovery), to achieve a full set of emergency
+              technology risk prevention and control capabilities in 1 minute discovery - 5 minutes localization - 10 minutes recovery.
+            homepage_url: https://antchain.antgroup.com/products/biosp
+            logo: traas-has.svg
+            crunchbase: https://www.crunchbase.com/organization/ant-financial
           - item:
             name: Turbonomic
             homepage_url: https://turbonomic.com/
